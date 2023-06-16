@@ -6,7 +6,7 @@ import {Route} from "react-router-dom";
 import Layout from './components/Layout';
 import Home from './pages/Home';
 import Newsfeed from './components/Newsfeed';
-import Job from "./pages/Job";
+import Job from "./pages/job";
 const router = createBrowserRouter(
   createRoutesFromElements(
     <>
