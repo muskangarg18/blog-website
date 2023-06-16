@@ -8,7 +8,6 @@ import Newsfeed from '../components/Newsfeed';
 function Home() {
   return (
     <>
-    
     <article className=" text-center">
         <div className=" text-gray-700 bg-gray-100 py-3">
         <h1  className="text-xl font-bold">Blogs</h1>
